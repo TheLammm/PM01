@@ -1,5 +1,5 @@
 body{
-    background-color: #F5EBE0;
+    background-color: #EDEDE9;
 }
 .navbar {
     width: 100%;
@@ -20,3 +20,9 @@ body{
     background-color: #EDEDE9;
     color: #D5BDAF;
   }
+
+.PI{
+    border: solid 2px transparent;
+    margin: 5%;
+    background-color: #D5BDAF;
+}
