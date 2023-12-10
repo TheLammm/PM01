@@ -1,28 +1,42 @@
 body{
-    background-color: #EDEDE9;
+    background-color: #F1EFEF;
 }
 .navbar {
     width: 100%;
-    background-color: #D5BDAF;
+    height: 10%;
+    background-color: #CCC8AA;
     overflow: auto;
   }
-
   .navbar a {
-    float: left;
+    float:right;
     text-align: center;
     padding: 12px;
-    color: #EDEDE9;
+    color: gray;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 18px;
   }
-  
   .navbar a:hover {
-    background-color: #EDEDE9;
+    background-color: #F1EFEF;
     color: #D5BDAF;
   }
+.links{
+  margin-right: 1%;
+}
 
 .PI{
     border: solid 2px transparent;
     margin: 5%;
-    background-color: #D5BDAF;
+    background-color: #B6BBC4;
+}
+
+.PI h1{
+  text-align: center;
+}
+
+.Left{
+  padding: 2%;
+  width: 65%;
+}
+.Right{
+  width: 35%;
 }
